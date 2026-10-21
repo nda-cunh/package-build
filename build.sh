@@ -1,5 +1,5 @@
-
 #!/bin/sh
+# 6.83.0
 
 main() {
 	init_meson_path
